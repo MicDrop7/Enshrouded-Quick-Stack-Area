@@ -135,4 +135,4 @@ Delete `mods\quick-stack-area` and `Scripts\QuickStackArea.asi`. Placed stations
 
 ---
 
-More Enshrouded mods by MicDrop7: [Enshrouded-Game-Mods](https://github.com/MicDrop7/Enshrouded-Game-Mods).
+More Enshrouded mods by MicDrop7: [Smart Workshop](https://github.com/MicDrop7/Enshrouded-Smart-Workshop) · [Survivor Crafting Anywhere](https://github.com/MicDrop7/Enshrouded-Survivor-Crafting-Anywhere) · [Free Skill Unlocks](https://github.com/MicDrop7/Enshrouded-Free-Skill-Unlocks).
